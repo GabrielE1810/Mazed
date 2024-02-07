@@ -1,0 +1,2 @@
+# Mazed
+my first app
